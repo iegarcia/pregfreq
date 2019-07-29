@@ -1,0 +1,11 @@
+﻿{
+	"name": "Preguntas Frecuentes",
+	"short_name": "Preguntas Frecuentes",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"icons": [{
+		"src": "icon-16.png",
+		"sizes": "16x16",
+		"type": "image/png"
+	}
